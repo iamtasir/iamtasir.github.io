@@ -2152,6 +2152,9 @@ figure.project-img img {
     font-weight: var(--fw-500);
   }
 
+  .h4.timeline-item-title a {
+    color: white;
+  }
 
 
   /**
