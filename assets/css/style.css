@@ -870,6 +870,10 @@ main {
   line-height: 1.6;
 }
 
+.modal-content ul{
+  color: var(--light-gray);
+}
+
 
 /**
  * #clients 
@@ -960,6 +964,12 @@ main {
   color: var(--vegas-gold);
   font-weight: var(--fw-400);
   line-height: 1.6;
+}
+
+.highlight-text {
+  color: var(--orange-yellow-crayola);
+  font-weight: var(--fw-500);
+  display: inline-block;
 }
 
 .timeline-item:not(:last-child)::before {
